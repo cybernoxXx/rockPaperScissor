@@ -1,0 +1,1 @@
+Get the winner of rock, paper, scissors game.
